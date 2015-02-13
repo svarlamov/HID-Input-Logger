@@ -1,0 +1,1 @@
+start javaw.exe -client -classpath .adf;classes;Libs\lwjgl-2.8.4\lwjgl-2.8.4\jar\jinput.jar;Libs\lwjgl-2.8.4\lwjgl-2.8.4\jar\lwjgl.jar;Libs\jexcelapi_2_6_12\jexcelapi\jxl.jar;Libs\lwjgl-2.8.4\lwjgl-2.8.4\native\windows -Djavax.net.ssl.trustStore=AppData\Local\Temp\trustStore4316171311028603384.jks -Djava.library.path=Libs\lwjgl-2.8.4\lwjgl-2.8.4\native\windows rw_data.Init
